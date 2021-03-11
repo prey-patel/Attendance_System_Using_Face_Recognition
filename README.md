@@ -1,1 +1,2 @@
 # Attendance_System_Using_Face_Recognition
+I made this project using python. With the help of OpenCV library, system has funcationality to calpture imgaes of students face for training and recognition. To train model, minimum 30 images of studets require to recognize students face perfecty. When face is recognized, system automatically update attendace in csv file of particular subject. It will update name, date and time in attendance database.
